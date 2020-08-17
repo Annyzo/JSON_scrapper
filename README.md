@@ -14,8 +14,6 @@ JSON_scrapper
 
           ├── app.rb
 
-          ├── client_secret.json
-
           ├── Gemfile.lock
 
           ├── app.rb
