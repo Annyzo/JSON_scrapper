@@ -33,7 +33,7 @@ Gemfile: Un Gemfile est tout simplement la liste des gems utilisés par mon fich
 
 Le dossier db contient les fichier emails.JSON et emails.csv qui sont la stockage des donnes
 
-Et le dossier lib contient le fichier scrapper.rb qui le coeur de programme. Il sert de recuperer l'URl de Val d'oise et trie les ville et l'email des maires puis il y a des fonctions d'enregistre les donnes dans db et dans le sheets google
+Et le dossier lib contient le fichier scrapper.rb qui le coeur de programme. Il sert de recuperer l'URL de Val d'oise et trie les villes et les emails des maires puis il y a des fonctions d'enregistre les donnes dans db et dans le sheets google
 
 Le fichier app.rb est la fonction de l'excution de programme.
 
